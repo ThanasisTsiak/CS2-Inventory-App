@@ -17,6 +17,7 @@ You can download the latest stable release from the link below:
 ## ✨ Key Features
 
 * **Real-time Scanning:** Instantly fetch your inventory value using your SteamID64 or Profile Link.
+   _(Note: Large inventories may take a few minutes to scan due to Steam's rate limits)_
 * **Smart Analytics:** Visualize your collection with detailed charts (Knives, Gloves, Cases, etc.).
 * **Price History:** Track market trends with built-in price history graphs for every marketable item.
 * **Tax Calculator:** Calculate your actual profit after the Steam Market fee (15%).
