@@ -8,7 +8,7 @@ A sleek, fast, and user-friendly mobile application to track your CS2 inventory'
 
 You can download the latest stable release from the link below:
 
-👉 **[Download CS2 Inventory v1.0.11](https://github.com/ThanasisTsiak/CS2-Inventory-App/releases/download/v1.0.11/CS2.Inventory_v1.0.11.apk)**
+👉 **[Download CS2 Inventory v1.0.12](https://github.com/ThanasisTsiak/CS2-Inventory-App/releases/download/v1.0.12/CS2.Inventory_v1.0.12.apk)**
 
 > **Installation Note:** Since this app is currently in Beta and not yet on the Play Store, you may need to enable "Install from Unknown Sources" in your Android settings to complete the installation.
 
@@ -28,7 +28,7 @@ You can download the latest stable release from the link below:
 
 ## 🛠️ Technical Details
 
-* **Current Version:** 1.0.11
+* **Current Version:** 1.0.12
 * **Framework:** Flutter / Dart
 * **Data Source:** Official Steam Community API
 * **Platform:** Android
