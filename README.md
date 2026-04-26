@@ -8,7 +8,7 @@ A sleek, fast, and user-friendly mobile application to track your CS2 inventory'
 
 You can download the latest stable release from the link below:
 
-👉 **[Download CS2 Inventory v1.0.12](https://github.com/ThanasisTsiak/CS2-Inventory-App/releases/download/v1.0.12/CS2.Inventory_v1.0.12.apk)**
+👉 **[Download CS2 Inventory v1.0.13](https://github.com/ThanasisTsiak/CS2-Inventory-App/releases/download/v1.0.13/CS2.Inventory_v1.0.13.apk)**
 
 > **Installation Note:** Since this app is currently in Beta and not yet on the Play Store, you may need to enable "Install from Unknown Sources" in your Android settings to complete the installation.
 
