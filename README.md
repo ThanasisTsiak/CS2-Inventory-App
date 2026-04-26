@@ -28,7 +28,7 @@ You can download the latest stable release from the link below:
 
 ## 🛠️ Technical Details
 
-* **Current Version:** 1.0.12
+* **Current Version:** 1.0.13
 * **Framework:** Flutter / Dart
 * **Data Source:** Official Steam Community API
 * **Platform:** Android
